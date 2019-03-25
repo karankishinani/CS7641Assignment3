@@ -33,7 +33,7 @@ This notebook contains all the code for each part of this assignment.
 
 ## ABOUT THE DATASET FILES
 
-The dataset is contained in the './data' folder.
+The dataset is contained in the `./data folder.
 
 ## ABOUT PLOTS
 
